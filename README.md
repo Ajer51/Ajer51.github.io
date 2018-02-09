@@ -6,7 +6,6 @@
 <body>
   
 <!-- Navigation --> 
-
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
