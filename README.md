@@ -14,15 +14,7 @@
   <a href="#contact" class="w3-button w3-bar-item">Contact</a>
 </nav>
   
-<!-- Slide Show -->
-<section>
-  <img class="mySlides" src="LEGG INN HER"
-  style="width:100%">
-  <img class="mySlides" src="LEGG INN HER"
-  style="width:100%">
-  <img class="mySlides" src="LEGG INN HER"
-  style="width:100%">
-</section>
+
   
 </body
 </html>
