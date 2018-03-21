@@ -14,7 +14,7 @@
 
 <!-- Slide Show Legg til bilde -->
 <section>
-  <img class="mySlides" src="http://i0.kym-cdn.com/photos/images/newsfeed/001/344/654/45b.png"
+  <img class="mySlides" src=""
   style="width:100%">
   <img class="mySlides""
   style="width:100%">
