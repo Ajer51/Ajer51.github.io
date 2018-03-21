@@ -21,9 +21,7 @@
   <img class="mySlides" src="http://www.arkivrad.no/sites/arkivrad/files/user/Nyheter/femtitall.jpg"
   style="width:100%">
 </section>
-<php
-echo "test";
-?php>
+
 Stem Her:
 https://strawpoll.com/2cwss4dy
 
