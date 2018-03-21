@@ -16,7 +16,7 @@
 
 <!-- Slide Show Legg til bilde -->
 <section>
-  <img class="mySlides" src="HER"
+  <img class="mySlides" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRff7tt8jNJ4SlkQsVf37_KBG3MK1NdhXpUgLNrVL7yhEuWwWo"
   style="width:100%">
   <img class="mySlides" src="HER"
   style="width:100%">
@@ -42,7 +42,3 @@ function carousel() {
 
 </body>
 </html>
-
-
-</html>
-<img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRff7tt8jNJ4SlkQsVf37_KBG3MK1NdhXpUgLNrVL7yhEuWwWo/>
