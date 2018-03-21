@@ -48,4 +48,4 @@ function carousel() {
 
 
 hvem er penest?? STEM nÅÅÅÅ
-https://twitter.com/GiMegSekser/status/976519164105019393
+Her :https://twitter.com/GiMegSekser/status/976519164105019393
