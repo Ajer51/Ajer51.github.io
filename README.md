@@ -18,7 +18,7 @@
   style="width:100%">
   <img class="mySlides" src="https://s3-media1.fl.yelpcdn.com/bphoto/ZNxyDIUzgd35soHHGjWmJg/l.jpg"
   style="width:100%">
-  <img class="mySlides" src=""
+  <img class="mySlides" src="http://www.arkivrad.no/sites/arkivrad/files/user/Nyheter/femtitall.jpg"
   style="width:100%">
 </section>
 <php
