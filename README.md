@@ -18,7 +18,7 @@
   style="width:100%">
   <img class="mySlides""
   style="width:100%">
-  <img class="mySlides" src="https://orig00.deviantart.net/3d50/f/2013/128/3/6/stahp_it_by_wsmarkhenry-d64lpx9.jpg"
+  <img class="mySlides" src=""
   style="width:100%">
 </section>
 <php
