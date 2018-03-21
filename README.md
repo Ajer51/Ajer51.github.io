@@ -14,7 +14,7 @@
 
 <!-- Slide Show Legg til bilde -->
 <section>
-  <img class="mySlides" src=""
+  <img class="mySlides" src="https://vignette.wikia.nocookie.net/powerlisting/images/0/0e/Matrix.gif/revision/latest?cb=20130306190326"
   style="width:100%">
   <img class="mySlides""
   style="width:100%">
