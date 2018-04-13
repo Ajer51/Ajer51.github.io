@@ -16,7 +16,7 @@
 <section>
   <img class="mySlides" src="https://vignette.wikia.nocookie.net/powerlisting/images/0/0e/Matrix.gif/revision/latest?cb=20130306190326"
   style="width:100%">
-  <img class="mySlides"src="https://techcrunch.com/2016/05/10/please-dont-learn-to-code/"
+  <img class="mySlides"src="https://s3-media1.fl.yelpcdn.com/bphoto/ZNxyDIUzgd35soHHGjWmJg/l.jpg"
   style="width:100%">
   <img class="mySlides"src="https://www.google.no/imgres?imgurl=https%3A%2F%2Fnerdist.com%2Fwp-content%2Fuploads%2F2017%2F10%2FThe-Matrix-code.jpg&imgrefurl=https%3A%2F%2Fnerdist.com%2Fthe-matrix-code-sushi-recipe%2F&docid=92HucvJkwLYqwM&tbnid=h3TsJUhfys_owM%3A&vet=10ahUKEwicktCBhbfaAhXLkSwKHaTBDV4QMwhbKBQwFA..i&w=970&h=545&bih=662&biw=1366&q=code&ved=0ahUKEwicktCBhbfaAhXLkSwKHaTBDV4QMwhbKBQwFA&iact=mrc&uact=8"
   style="width:100%">
