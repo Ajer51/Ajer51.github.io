@@ -25,7 +25,7 @@
   <a href="#home" class="w3-button w3-bar-item">Home</a>
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
   <a href="#share" class="w3-button w3-bar-item">Share</a>
-  <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+  <a href="#contact" class="w3-button w3-bar-item">Support</a>
 </nav>
 
 <!--Slide Show Legg til bilde -->
