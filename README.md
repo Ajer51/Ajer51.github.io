@@ -6,7 +6,7 @@
 <body>
 
 <h1>GiOssSekser</h1>
-<p>Hvis du ikke gir oss sekser så tar jeg deg.</p>
+<p>Hvis du ikke gir oss sekser så tar jeg deg, Onii-chan</p>
 
 </body>
 </html>
