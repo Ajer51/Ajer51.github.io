@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gi oss sekser</title>
+</head>
+<body>
+
+<h1>GiOssSekser</h1>
+<p>Hvis du ikke gir oss sekser så tar jeg deg.</p>
+
+</body>
+</html>
+
+
+
+
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
