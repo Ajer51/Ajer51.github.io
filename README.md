@@ -19,7 +19,7 @@ YOLO BITCHES
 </html>
 <html>
 <head>
-<title>Dette er tittel</title>
+  
 </head>
 <body>
 
