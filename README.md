@@ -4,6 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
+  <!-- Content will go here -->
+
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
@@ -12,8 +14,6 @@
   <a href="#contact" class="w3-button w3-bar-item">Support</a>
 </nav>
 
-
-<!-- Content will go here -->
 YOLO BITCHES
 </body>
 </html>
@@ -25,13 +25,6 @@ YOLO BITCHES
 
 <h1>Vår nettside</h1>
 <p>Hvis du ikke gir oss sekser så tar jeg deg, Onii-chan</p>
-
-</body>
-</html>
-
-
-
-
 
 <!--Slide Show Legg til bilde -->
 
