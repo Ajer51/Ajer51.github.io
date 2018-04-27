@@ -19,7 +19,7 @@ YOLO BITCHES
 </html>
 <html>
 <head>
-<title>Gi oss sekser</title>
+<title>Dette er tittel</title>
 </head>
 <body>
 
@@ -29,8 +29,7 @@ YOLO BITCHES
 <!--Slide Show Legg til bilde -->
 
 
-Stem Her:
-https://strawpoll.com/2cwss4dy
+
 
 </body>
 </html>
