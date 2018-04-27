@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Gi oss sekser</title>
