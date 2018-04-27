@@ -28,7 +28,7 @@
   <a href="#contact" class="w3-button w3-bar-item">Contact</a>
 </nav>
 
-// Slide Show Legg til bilde 
+<!--Slide Show Legg til bilde -->
 
 
 Stem Her:
