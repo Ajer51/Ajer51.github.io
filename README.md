@@ -29,14 +29,7 @@
 </nav>
 
 <!-- Slide Show Legg til bilde -->
-<section>
-  <img class="mySlides""
-  style="width:100%">
-  <img class="mySlides"src="https://s3-media1.fl.yelpcdn.com/bphoto/ZNxyDIUzgd35soHHGjWmJg/l.jpg"
-  style="width:100%">
-  <img class="mySlides"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1GVuwj7ot2UZuYhMQP1UM8Mv8fSyClKwbnswrVYClITEx0tZgJQ"
-  style="width:100%">
-</section>
+
 
 Stem Her:
 https://strawpoll.com/2cwss4dy
