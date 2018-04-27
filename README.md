@@ -45,4 +45,14 @@ https://strawpoll.com/2cwss4dy
 </html>
 
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- This is a comment -->
+<p>Dette er kjempe bra!!!</p>
+<!-- Comments are not displayed in the browser -->
+
+</body>
+</html>
 
