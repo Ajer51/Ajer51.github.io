@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>GiOssSekser</h1>
+<h1>Vår nettside</h1>
 <p>Hvis du ikke gir oss sekser så tar jeg deg, Onii-chan</p>
 
 </body>
