@@ -9,7 +9,7 @@
   
    <link rel="icon" 
      type="image/png" 
-     href="http://example.com/myicon.png">
+     href="http://pngimg.com/uploads/number6/number6_PNG18545.png">
      
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
