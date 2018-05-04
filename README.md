@@ -7,9 +7,8 @@
   <!-- Content will go here -->
   <h1> Vår nettside</h1>
   
-   <link rel="icon" 
-     type="image/png" 
-     href="http://pngimg.com/uploads/number6/number6_PNG18545.png">
+<link rel="apple-touch-icon" sizes="114x114" href="${resource(dir: 'images', file: 
+'apple-touch-icon-retina.png')}">
      
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
