@@ -12,6 +12,7 @@
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
   <a href="#share" class="w3-button w3-bar-item">Share</a>
   <a href="#support" class="w3-button w3-bar-item">Support</a>
+  <a href="#music" class="w3-button w3-bar-item">Music</a>
 </nav>
 
 <!-- Slide Show -->
