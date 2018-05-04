@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
   <!-- Content will go here -->
-
+  <h1> Vår nettside</h1>
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
@@ -46,22 +46,7 @@ function carousel() {
 YOLO BITCHES
 </body>
 </html>
-<html>
-<head>
-  
-</head>
-<body>
 
-<h1>Vår nettside</h1>
-<p>Hvis du ikke gir oss sekser så tar jeg deg, Onii-chan</p>
-
-<!--Slide Show Legg til bilde -->
-
-
-
-
-</body>
-</html>
 
 
 
