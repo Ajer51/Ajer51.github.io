@@ -6,6 +6,11 @@
 <body>
   <!-- Content will go here -->
   <h1> Vår nettside</h1>
+  
+   <link rel="icon" 
+     type="image/png" 
+     href="http://example.com/myicon.png">
+     
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
