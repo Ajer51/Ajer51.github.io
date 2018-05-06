@@ -15,7 +15,7 @@
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
-  <a href="#projects class="w3-button w3-bar-item">Projects</a>
+  <a href="#projects" class="w3-button w3-bar-item">Projects</a>
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
   <a href="#share" class="w3-button w3-bar-item">Share</a>
   <a href="#support" class="w3-button w3-bar-item">Support</a>
