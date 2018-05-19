@@ -54,7 +54,6 @@ function carousel() {
 </html>
 
 
-<!doctype html>
 <html>
   <head>
     <title>NodeJS Comet Chat Demo</title>
