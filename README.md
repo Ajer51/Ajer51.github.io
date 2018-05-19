@@ -50,6 +50,8 @@
   </p>
 </footer>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
 <script>
 // Automatic Slideshow - change image every 3 seconds
 var myIndex = 0;
