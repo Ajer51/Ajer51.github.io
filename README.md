@@ -32,6 +32,12 @@
   style="width:100%">
 </section>
 
+<!-- Describe the website -->
+<section class="w3-container w3-center w3-content" style="max-width:600px">
+  <h2 class="w3-wide">I work alone</h2>
+  <p class="w3-opacity"><i>If this is here it is proof i was the last to make changes 19.05.2018</i></p>
+</section>
+
 <script>
 // Automatic Slideshow - change image every 3 seconds
 var myIndex = 0;
