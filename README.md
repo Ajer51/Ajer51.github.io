@@ -50,23 +50,9 @@ function carousel() {
 }
 </script>
 
-YOLO BITCHES
 </body>
 </html>
 
-
-
-
-<html>
-<body>
-
-<!-- This is a comment -->
-<p>Dette er kjempe bra. Hvis du ikke gir oss sekser så tar vi deg...</p> 
-<!-- Comments are not displayed in the browser -->
-
-
-
-fhjgjj
 
 <!doctype html>
 <html>
