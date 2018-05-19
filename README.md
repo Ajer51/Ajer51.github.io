@@ -36,6 +36,7 @@
 <section class="w3-container w3-center w3-content" style="max-width:600px">
   <h2 class="w3-wide">I work alone</h2>
   <p class="w3-opacity"><i>If this is here it is proof I(Julian) was the last to make changes 19.05.2018</i></p>
+    <p class="w3-justify">I(julian) made this website almost alone exept some changed pictures and a chat that is not working so its not gonna be used, kinda annoyd </p>
 </section>
 
 <script>
