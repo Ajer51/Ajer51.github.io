@@ -8,8 +8,7 @@
   <h1> Vår nettside</h1>
   
   <head>
-  <link rel="apple-touch-icon" sizes="114x114" href="${resource(dir: 'images', file: 
-'apple-touch-icon-retina.png')}">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
   </head>
      
 <!-- Navigation -->
@@ -49,8 +48,6 @@
   <p class="w3-medium">
   </p>
 </footer>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
 <script>
 // Automatic Slideshow - change image every 3 seconds
