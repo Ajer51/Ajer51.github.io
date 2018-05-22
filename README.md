@@ -75,19 +75,19 @@ body {
 <div id="b1" class="containerTab" style="display:none;background:green">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Box 1</h2>
-  <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+  <p>Move this to the other things below please, julian</p>
 </div>
 
 <div id="b2" class="containerTab" style="display:none;background:blue">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Box 2</h2>
-  <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+  <p>Move this to the other things below please, julian</p>
 </div>
 
 <div id="b3" class="containerTab" style="display:none;background:red">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Box 3</h2>
-  <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+  <p>Move this to the other things below please, julian</p>
 </div>
 
 <script>
@@ -123,7 +123,7 @@ function openTab(tabName) {
 
 <!-- Describe the website -->
 <section class="w3-container w3-center w3-content" style="max-width:600px">
-  <h2 class="w3-wide">I work alone</h2>
+  <h2 class="w3-wide">please start to help</h2>
   <p class="w3-opacity"><i>If this is here it is proof I(Julian) was the last to make changes 19.05.2018</i></p>
     <p class="w3-justify">I(julian) made this website almost alone exept some changed pictures and a chat that is not working so its not gonna be used, kinda annoyd </p>
 </section>
