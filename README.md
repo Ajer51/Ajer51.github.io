@@ -76,7 +76,7 @@ body {
   <p>Move this to the other things below please, julian</p>
 </div>
 
-<div id="b2" class="containerTab" style="display:none;background:blue">
+<div id="b2" class="containerTab" style="display:none;background:red">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Box 2</h2>
   <p>Move this to the other things below please, julian</p>
@@ -84,7 +84,7 @@ body {
 
 <div id="b3" class="containerTab" style="display:none;background:red">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Box 3</h2>
+  <h2> 3</h2>
   <p>Move this to the other things below please, julian</p>
 </div>
 
@@ -105,7 +105,6 @@ function openTab(tabName) {
   <a href="#projects" class="w3-button w3-bar-item">Projects</a>
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
   <a href="#share" class="w3-button w3-bar-item">Share</a>
-  <a href="#support" class="w3-button w3-bar-item">Support</a>
   <a href="#music" class="w3-button w3-bar-item">Music</a>
 </nav>
 
@@ -151,7 +150,7 @@ function carousel() {
     myIndex++;
     if (myIndex > x.length) {myIndex = 1}
     x[myIndex-1].style.display = "block";
-    setTimeout(carousel, 2000);
+    setTimeout(carousel, 1000);
 }
 </script>
 
