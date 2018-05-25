@@ -105,7 +105,6 @@ function openTab(tabName) {
   <a href="#projects" class="w3-button w3-bar-item">Projects</a>
   <a href="#chat" class="w3-button w3-bar-item">Chat</a>
   <a href="#share" class="w3-button w3-bar-item">Share</a>
-  <a href="#music" class="w3-button w3-bar-item">Music</a>
 </nav>
 
 <!-- Slide Show -->
@@ -137,7 +136,7 @@ function openTab(tabName) {
 </footer>
 
 <script>
-// Automatic Slideshow - change image every 3 seconds
+// Automatic Slideshow - change image every 1 seconds
 var myIndex = 0;
 carousel();
 
