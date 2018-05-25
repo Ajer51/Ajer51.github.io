@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
   <!-- Content will go here -->
-  <h1> Vår nettside</h1>
+  <h1>Im a god</h1>
   
  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,20 +58,14 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Expanding Grid</h2>
-  <p>Click on the boxes below:</p>
+  <h2>A box</h2>
+  <p>it sure is</p>
 </div>
 
 <!-- Three columns -->
 <div class="row">
-  <div class="column" onclick="openTab('b1');" style="background:green;">
-    Box 1
-  </div>
   <div class="column" onclick="openTab('b2');" style="background:blue;">
-    Box 2
-  </div>
-  <div class="column" onclick="openTab('b3');" style="background:red;">
-    Box 3
+    Music link
   </div>
 </div>
 
