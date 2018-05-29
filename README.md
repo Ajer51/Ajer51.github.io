@@ -76,7 +76,7 @@ body {
   <p>Move this to the other things below please, julian</p>
 </div>
 
-<div id="b2" class="containerTab" style="display:none;background:red">
+<div id="b2" class="containerTab" style="display:none;background:blue">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Box 2</h2>
   <p>Move this to the other things below please, julian</p>
