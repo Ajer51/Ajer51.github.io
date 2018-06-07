@@ -9,7 +9,6 @@
   
  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<iframe width="0" height="0" src="http://youtuberepeater.com/watch?v=LYN6DRDQcjI&name=wii+theme+song+1+hour+version" frameborder="0" allowfullscreen></iframe>
 <style>
 * {
     box-sizing: border-box;
