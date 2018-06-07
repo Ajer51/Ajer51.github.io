@@ -167,9 +167,7 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
-<head>
-<iframe width="0" height="0" src="http://youtuberepeater.com/watch?v=LYN6DRDQcjI&name=wii+theme+song+1+hour+version" frameborder="0" allowfullscreen></iframe>
-</head>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276372862&color=%2300cc11&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 </body>
 
