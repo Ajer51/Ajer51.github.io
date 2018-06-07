@@ -167,6 +167,12 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
+	<embed
+	src="/music/good_enough.mp3"
+	width="180"
+	height="90"
+	loop="true"
+	autostart="true">
 
 </body>
 
