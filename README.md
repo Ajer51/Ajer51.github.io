@@ -121,6 +121,7 @@ function openTab(tabName) {
 <section class="w3-container w3-center w3-content" style="max-width:600px">
   <h2 class="w3-wide">This some good shit</h2>
   <p class="w3-opacity"><i>This took way longer than it should</i></p>
+  <p class="w3-opacity"><i>Wow you actually did something!- julian Mathias (messed up a picture tho and it looks like shit now)</i></p>
     <p class="w3-justify">Yupp its static </p>
 </section>
 
