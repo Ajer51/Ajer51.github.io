@@ -123,6 +123,7 @@ function openTab(tabName) {
   <p class="w3-opacity"><i>This took way longer than it should</i></p>
   <p class="w3-opacity"><i>Wow you actually did something!- julian Mathias (messed up a picture tho and it looks like shit now)</i></p>
     <p class="w3-justify">Yupp its static </p>
+    <p class="w3-justify">Stop messing up my shit while im not there please  </p>
 </section>
 
 <!-- Footer -->
