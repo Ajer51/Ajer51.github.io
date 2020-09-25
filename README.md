@@ -92,7 +92,7 @@ body {
 <div id="b3" class="containerTab" style="display:none;background:blue">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2> 3</h2>
-  <p>Move this to the other things below please, julian</p>
+  <p>Move this to the other things below please,</p>
 </div>
 
 <script>
@@ -128,7 +128,7 @@ function openTab(tabName) {
 <section class="w3-container w3-center w3-content" style="max-width:600px">
   <h2 class="w3-wide">This some good shit</h2>
   <p class="w3-opacity"><i>This took way longer than it should</i></p>
-  <p class="w3-opacity"><i>Wow you actually did something!- julian Mathias (messed up a picture tho and it looks like shit now)</i></p>
+  <p class="w3-opacity"><i>Wow you actually did something! (messed up a picture tho and it looks like shit now)</i></p>
     <p class="w3-justify">Yupp its static </p>
     <p class="w3-justify">Stop messing up my shit while im not there please  </p>
 </section>
